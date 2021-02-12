@@ -19,7 +19,7 @@
     </property>
     <property>
         <name>yarn.resourcemanager.hostname</name>
-        <value>hostname</value>
+        <value>hostname1</value>
     </property>
     <property>
         <name>yarn.scheduler.minimum-allocation-mb</name>
